@@ -30,6 +30,8 @@ const TEXT = [
   '',
   'The clock on the wall ticks, and each tick has all the time in the world to arrive.',
   '',
+  'Somewhere upstairs, a floorboard settles with a small sigh, the way old houses do when they are finally left alone.',
+  '',
   'Outside, the street empties itself one car at a time. Inside, the afternoon\u2019s warmth is still in the walls, and nothing is asking for anything.',
   '',
   'The light will stay a little longer yet.',
