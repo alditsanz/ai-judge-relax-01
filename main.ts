@@ -24,7 +24,7 @@ const TEXT = [
   '',
   'The kettle boiled a while ago, and the steam has thinned to nothing above the stove.',
   '',
-  'Late light comes through the kitchen window the colour of weak tea. It moves across the floor so slowly that you could watch it all afternoon and never catch it moving.',
+  'Late light comes through the kitchen window the colour of weak tea. It crosses the floor so slowly you could watch it all afternoon and never catch it moving.',
   '',
   'A cat sleeps on the folded laundry, rising and falling, rising and falling, as if that were the whole of the work.',
   '',
